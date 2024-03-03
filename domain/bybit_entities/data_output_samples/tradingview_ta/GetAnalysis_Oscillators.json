@@ -1,0 +1,19 @@
+{
+    "RECOMMENDATION": "NEUTRAL",
+    "BUY": 1,
+    "SELL": 2,
+    "NEUTRAL": 8,
+    "COMPUTE": {
+      "RSI": "NEUTRAL",
+      "STOCH.K": "NEUTRAL",
+      "CCI": "SELL",
+      "ADX": "NEUTRAL",
+      "AO": "NEUTRAL",
+      "Mom": "SELL",
+      "MACD": "BUY",
+      "Stoch.RSI": "NEUTRAL",
+      "W%R": "NEUTRAL",
+      "BBP": "NEUTRAL",
+      "UO": "NEUTRAL"
+    }
+  }

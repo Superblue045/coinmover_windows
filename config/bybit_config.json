@@ -1,0 +1,5 @@
+{
+    "endpoint" : "https://api.bybit.com",
+    "api_key" : "1234",
+    "api_secret" : "xxxx"
+}
