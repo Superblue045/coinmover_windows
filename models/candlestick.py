@@ -1,7 +1,7 @@
-from symbol_dto import SymbolDto
+from symbol import Symbol
 
-class CandlestickDto:
-    Symbol      : SymbolDto
+class Candlestick:
+    Symbol      : Symbol
     Open        : str
     Close       : str
     High        : str
