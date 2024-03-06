@@ -1,6 +1,0 @@
-{
-    "endpoint" : "https://api.bybit.com",
-    "api_key" : "1234",
-    "api_secret" : "xxxx",
-    "linear_instruments_url" : "https://api.bybit.com/v5/market/instruments-info?category=linear"
-}
