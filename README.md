@@ -43,9 +43,9 @@ discord_webhook = your webhook if you want to use discord notifications
 maxmargin = maximum percentage of margin in use. Above this set number there won't be transferred any funds
 
 ## thanks
-Special thanks to https://github.com/triat for very valuable input improving the script!
+Special thanks to https://github.com/Superblue045 for very valuable input improving the script!
 
 Feeling the need to support me?    
-0x12469989c0f3b38F0f230F94b58e852249cFC9DD (BEP20/ERC20).   
-TVvx4GE4Z9CmpshMyubBHbxizHZ2UxNi4H (TRC20).    
+0x60B3B5F3D3b373a028f9065Baf27005BaE0B929e (BEP20).   
+TJnX9zm11WVDpYDbhv83iR93FXo9Ldbvg6 (TRC20).    
 
